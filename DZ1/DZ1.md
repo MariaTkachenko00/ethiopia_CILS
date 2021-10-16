@@ -63,3 +63,5 @@
   
   Ссылка на таблицу:https://docs.google.com/spreadsheets/d/1GI32KbNeZhRk8WpK3vlj93TRJv8CFG0oMJgiiAUL8z4/edit?usp=sharing
   
+  **[ДЗ №3]** 
+ https://mariatkachenko00.github.io/HTML/
